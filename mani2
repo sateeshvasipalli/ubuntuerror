@@ -1,0 +1,2 @@
+Tomcat is a web server (can handle HTTP requests/responses) and
+ web container (implements Java Servlet API, also called servletcontainer) in one.
